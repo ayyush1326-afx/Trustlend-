@@ -1,0 +1,8 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "ReputationRegistry": "0x2bF9074f3eDdD64e80400A346825ea25c60dd4d5",
+  "LendingPool": "0x03328D1f75Ab9Ba7bF48B292CAD3853D573B0b7d",
+  "demoMode": true,
+  "deployedAt": "2026-10-17T09:54:37.384Z"
+}
